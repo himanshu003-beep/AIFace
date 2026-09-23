@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+cropped_faces/
+*.pdf
+.DS_Store
