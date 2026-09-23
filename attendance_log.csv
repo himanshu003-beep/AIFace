@@ -1,6 +1,0 @@
-Timestamp,Person_ID,Action,Image_File
-2026-09-23 16:59:53,Person_1,LOGGED_IN,Person_1_login_1790162993851.jpg
-2026-09-23 16:59:56,Person_2,LOGGED_IN,Person_2_login_1790162996162.jpg
-2026-09-23 16:59:56,Person_3,LOGGED_IN,Person_3_login_1790162996843.jpg
-2026-09-23 17:00:04,Person_1,LOGGED_OUT,Person_1_logged_out_1790163004156.jpg
-2026-09-23 17:00:05,Person_4,LOGGED_IN,Person_4_login_1790163005215.jpg

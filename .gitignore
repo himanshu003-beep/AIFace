@@ -6,3 +6,4 @@ cropped_faces/
 *.pdf
 .DS_Store
 generate_pdf.py
+attendance_log.csv
